@@ -16,3 +16,10 @@ Number of main and interaction effects in the i-POP model
 
 
 ![Number of main and interaction effects](https://user-images.githubusercontent.com/40602129/219279477-b4842114-d152-40d6-aefa-53ae18d98980.png)
+
+
+ Main effects Feature importance plots: 
+![Feature _importance plots](https://user-images.githubusercontent.com/40602129/219279972-de27b7cc-3da2-45f1-9801-eea7a340ea3f.png)
+
+Interaction effects- Feature importance plots: 
+![Feature _importance plots2](https://user-images.githubusercontent.com/40602129/219280102-ab8f7812-9709-4998-a3a8-6ad002cd514a.png)
