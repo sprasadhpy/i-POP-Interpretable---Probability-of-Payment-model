@@ -12,4 +12,4 @@ Conference presentation:
 iPOP : Interpretable Probability of Payment ModeliPOP : Interpretable Probability of Payment Model
 3rd Ford Artificial Intelligence and Machine Learning Conference (Ford Greenfield Labs, Palo Alto, CA) · Dec 7, 2022
 
-![Number of main effects](https://user-images.githubusercontent.com/40602129/219279477-b4842114-d152-40d6-aefa-53ae18d98980.png)
+![Number of main and interaction effects](https://user-images.githubusercontent.com/40602129/219279477-b4842114-d152-40d6-aefa-53ae18d98980.png)
