@@ -12,6 +12,13 @@ Conference presentation:
 iPOP : Interpretable Probability of Payment ModeliPOP : Interpretable Probability of Payment Model
 3rd Ford Artificial Intelligence and Machine Learning Conference (Ford Greenfield Labs, Palo Alto, CA) · Dec 7, 2022
 
+
+Slides : ![Conference presentation](https://github.com/sprasadhpy/i-POP-Interpretable---Probability-of-Payment-model/blob/main/i-POP%20Interpretable%20%20Probability%20of%20Payment%20model.pdf)
+
+Video : ![Conference Video](https://github.com/sprasadhpy/i-POP-Interpretable---Probability-of-Payment-model/blob/main/015-video.mp4.mp4)
+
+Notebook : ![Notebook](https://github.com/sprasadhpy/i-POP-Interpretable---Probability-of-Payment-model/blob/main/UK_COMM_(Latest)%20(Rahul).ipynb)
+
 Number of main and interaction effects in the i-POP model
 
 
